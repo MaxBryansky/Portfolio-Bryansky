@@ -3,4 +3,4 @@
 - CSS 3
 - jQuery
 
-Can you view [project] (https://maxbryansky.github.io/Portfolio-Bryansky/)
+Can you view [my portfolio] (https://maxbryansky.github.io/Portfolio-Bryansky/)
